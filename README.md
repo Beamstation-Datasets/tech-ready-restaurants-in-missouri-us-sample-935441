@@ -9,9 +9,9 @@
 | Dataset ID | `935441` |
 | Location | Missouri |
 | Category | Restaurants |
-| Full dataset size | 30 records |
-| Free sample size | 1 records (3.33%) |
-| Last export | 2026-04-08T07:06:05.381162+00:00 |
+| Full dataset size | 16 records |
+| Free sample size | 1 records (6.25%) |
+| Last export | 2026-04-15T10:34:27.616867+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-missouri-us-sample-935441/releases/download/sample-latest/beamstation_935441_restaurants-us-mo_SAMPLE_DIST.csv) |
 
 ## What is in this sample
