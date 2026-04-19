@@ -1,12 +1,12 @@
 {
-  "export_job_id": "18ca4959-63e3-471e-9552-0e834610c6ec",
+  "export_job_id": "6dbd8412-c0ea-450f-a091-058f92b82807",
   "id_short": 935441,
-  "published_at": "2026-04-15T19:37:53Z",
+  "published_at": "2026-04-19T07:54:30Z",
   "repo_name": "tech-ready-restaurants-in-missouri-us-sample-935441",
   "sample_asset_name": "beamstation_935441_restaurants-us-mo_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/935441/beamstation_935441_restaurants-us-mo_SAMPLE_DIST.csv",
   "sample_records": 1,
   "sample_sha256": "530265da76b5ad1d1e642d55317174381543a01f95bc6085e92082716131029f",
   "sample_size_bytes": 20251,
-  "total_records": 30
+  "total_records": 16
 }
