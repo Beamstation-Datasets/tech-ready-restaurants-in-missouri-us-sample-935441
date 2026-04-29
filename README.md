@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in Missouri, US
 
-> Free BeamStation sample export with 2 rows and masked direct-contact fields.
+> Free BeamStation sample export with 13 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `935441` |
 | Location | Missouri |
 | Category | Restaurants |
-| Full dataset size | 23 records |
-| Free sample size | 2 records (8.7%) |
-| Last export | 2026-04-22T18:13:27.482089+00:00 |
+| Full dataset size | 130 records |
+| Free sample size | 13 records (10.0%) |
+| Last export | 2026-04-29T17:58:12.338383+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-missouri-us-sample-935441/releases/download/sample-latest/beamstation_935441_restaurants-us-mo_SAMPLE_DIST.csv) |
 
 ## What is in this sample
